@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume - [Your Name]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>[Your Name]</h1>
+        <p>Welcome to my online resume!</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#resume">Resume</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I'm [Your Name], a Grade 10 student preparing for my work experience in 2026.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Web Development (HTML, CSS, JavaScript)</li>
+            <li>Teamwork & Communication</li>
+            <li>Problem Solving</li>
+        </ul>
+    </section>
+
+    <section id="resume">
+        <h2>My Resume</h2>
+        <p><a href="resume.pdf" target="_blank">Click here to view my full resume (PDF)</a></p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: your.email@example.com</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
